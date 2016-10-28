@@ -4,8 +4,12 @@ var notAsNestedKey = {
  notAsNestedKey: "I'm not as nested!" 
 }
 
+var ReallyNestedKey = {
+  reallyNestedKey: "I'm deeply nested!"
+}
+
 var nestedKey4 = {
-  
+ nestedKey4: reallyNestedK 
 }
 
 var nestedKey2 = {
