@@ -4,9 +4,13 @@ var notAsNestedKey = {
  notAsNestedKey: "I'm not as nested!" 
 }
 
+var nestedKey4 = {
+  
+}
+
 var nestedKey2 = {
   nestedKey5: notAsNestedKey,
-  nestedkey3: 
+  nestedkey3: nestedKey4
 }
 
 var nestedKey1 = {
