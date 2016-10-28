@@ -25,8 +25,8 @@ console.log("time to add some firebase code!")
 //  nestedKey1:  nestedKey1
 //}
 
-var key3 = {
- key3: "just me!" 
-}
+//storeValue("key3", "just me!")
 
-storeValue("key3", key3
+addListItem("")
+
+
