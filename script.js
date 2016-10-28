@@ -5,7 +5,8 @@ var notAsNestedKey = {
 }
 
 var nestedKey2 = {
-  nestedKey5: notAsNestedKey
+  nestedKey5: notAsNestedKey,
+  nestedkey3: 
 }
 
 var nestedKey1 = {
@@ -16,4 +17,4 @@ var key2 = {
   nestedKey1:  nestedKey1
 }
 
-storeValue("key1", key1)
+storeValue("key2", key2)
