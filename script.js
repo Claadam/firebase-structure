@@ -27,6 +27,11 @@ console.log("time to add some firebase code!")
 
 //storeValue("key3", "just me!")
 
-addListItem("")
+list = {
+ listItemKey1: "hola!",
+ listItemKey2: "adios!"
+}
+
+addListItem("listKey1", list)
 
 
