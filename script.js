@@ -1,7 +1,11 @@
 console.log("time to add some firebase code!")
 
+var notAsNestedKey = {
+ notAsNestedKey: "I'm not as nested!" 
+}
+
 var nestedKey2 = {
-  nestedKey5: ""
+  nestedKey5: notAsNestedKey
 }
 
 var nestedKey1 = {
