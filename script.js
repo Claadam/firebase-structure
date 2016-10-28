@@ -1,5 +1,8 @@
 console.log("time to add some firebase code!")
 
-var 
+var key1 = {
+  nestedKey1: "hi!"
+  nestedKey2: "bye!"
+}
 
-storeValue("nestedKey1", "hi!")
+storeValue(key1, "hi!")
